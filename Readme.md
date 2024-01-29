@@ -6,7 +6,7 @@
 
 1. Чтобы запустить код, необходимо клонировать на свой компьютер:
 
-    - `git clone git@github.com:BelovDmitriii/QR-code-generator.git`
+    `git clone git@github.com:BelovDmitriii/QR-code-generator.git`
 
 2. Клонировать зависимости с помощью команды:
 
