@@ -6,16 +6,16 @@
 
 1. Чтобы запустить код, необходимо клонировать на свой компьютер:
 
-  `*git clone git@github.com:BelovDmitriii/QR-code-generator.git*`
+    - `git clone git@github.com:BelovDmitriii/QR-code-generator.git`
 
 2. Клонировать зависимости с помощью команды:
 
-  *npm install*
+    `npm install`
 
 3. Запустить сервер с помощью команды:
 
-  *node index.js*
+    `node index.js`
 
 4. Открыть браузер и перейти по адресу:
 
-  `*http://localhost:3000/generate?url=https:// <адрес вашего сайта>*`
+    `http://localhost:3000/generate?url=https:// <адрес вашего сайта>`
